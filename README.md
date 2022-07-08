@@ -1,4 +1,4 @@
-### Hi!
+# Hi! 
 
 ## I am currently a junior at the University at Albany majoring in Electrical and Computer Engineering and minoring in Math and Computer Science.
 
