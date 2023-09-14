@@ -1,6 +1,6 @@
 # Hi! 
 
-## I am currently a junior at the University at Albany majoring in Electrical and Computer Engineering and minoring in Math and Computer Science.
+## I am currently a senior at the University at Albany majoring in Electrical and Computer Engineering and minoring in Math and Computer Science.
 
 This page hosts all of my current and previous projects, some of the projects were done as coursework and some just out of curiosity.
 
